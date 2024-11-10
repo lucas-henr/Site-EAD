@@ -4,7 +4,7 @@
 
 Este projeto é um site de Educação a Distância (EAD) desenvolvido para testar minhas habilidades em FrontEnd. Todas os videos, imagens, ou textos são apenas para complementação do site! 
 
-### [Veja o site completo aqui](/imagens/modulos.png)
+### [Veja o site completo aqui](https://site-ead.vercel.app)
 
 ## Estrutura do Site
 
