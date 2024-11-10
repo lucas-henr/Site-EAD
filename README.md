@@ -10,8 +10,13 @@ Este projeto é um site de Educação a Distância (EAD) desenvolvido para testa
 
 A página inicial do site serve como um ponto de partida. Aqui, eles podem encontrar uma visão geral do curso, informações e feedbacks! Para ir para a pagina de módulos, basta clicar nos botões do site.
 
+Imagem 1
 ![Imagem da Página incial 1](/imagens/inicial.png)
+
+Imagem 2
 ![Imagem da Página incial 2](/imagens/inicial2.png)
+
+Imagem 3
 ![Imagem da Página incial 3](/imagens/inicial2.png)
                                                         ( Tem mais no site 😉)
 
@@ -21,20 +26,27 @@ A página de módulos apresenta todos os módulos e aulas do curso. São 3 modul
 
 ( Os titulos das aulas e modulos foram pegados de cursos gratuitos )
 
+Imagem
 ![Imagem da Página Módulos](/imagens/modulos.png)
 
 ### 3. Área da aula
 
 A área da aula é o mais importante de todos os cursos e aqui não é diferente! Uma pagina dedicada a aula, onde o úsuario pode deixar anotações, botão para conversar com o professor, informações sobre a aula, e opção para marcar como concluída!
 
+Imagem 1
 ![Imagem da Área da aula 1 ](/imagens/aula1.png)
+
+Imagem 2
 ![Imagem da Área da aula 2 ](/imagens/aula2.png)
+
+Imagem 3
 ![Imagem da Área da aula 3 ](/imagens/aula3.png)
 
 ### 3. Área do Usuário
 
 A área do usuário é uma pagina simples, feita para mostrar informações sobre o usuário e pode ser acessada da pagina de módulos
 
+Imagem
 ![Imagem da Área do Usuário](/imagens/conta.png)
 
 ## Tecnologias Utilizadas
