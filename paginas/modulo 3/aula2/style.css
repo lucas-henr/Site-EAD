@@ -1,0 +1,141 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+.video-page {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.video-page video {
+    width: 100%;
+    border-radius: 5px;
+}
+.video-page .actions {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+.video-page .actions button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+.video-page .actions button:hover {
+    background-color: #0056b3;
+}
+.video-page .actions button.liked {
+    background-color: #28a745;
+    transform: scale(1.1);
+}
+.video-page .notes {
+    margin-top: 20px;
+}
+.video-page .notes textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.video-page .notes .disclaimer {
+    color: #888;
+    font-size: 0.875rem;
+    margin-top: 5px;
+}
+.video-page .lesson-info {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+}
+.video-page .lesson-info h3 {
+    margin-top: 0;
+    font-size: 1.25rem;
+    color: #333;
+}
+.video-page .lesson-info p {
+    margin: 5px 0;
+    color: #555;
+}
+.video-page .lesson-info p strong {
+    color: #333;
+}
+.back-to-modules {
+    margin-top: 20px;
+    text-align: center;
+}
+.back-to-modules a {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+.back-to-modules a:hover {
+    background-color: #0056b3;
+}
+.instructor-info {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.instructor-info img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+.instructor-info .details {
+    flex: 1;
+}
+.instructor-info .details h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    color: #333;
+}
+.instructor-info .details p {
+    margin: 5px 0;
+    color: #555;
+}
+.instructor-info .details .message-button {
+    margin-top: 10px;
+}
+.instructor-info .details .message-button button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.instructor-info .details .message-button button:hover {
+    background-color: #0056b3;
+}

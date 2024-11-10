@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>Sala de aula</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./style.css"/>
+    <style>
+      
+    </style>
+    <script src="/script.js"></script>
+</head>
+<body>
+    <div class="header">
+        <h1>Aula 1: O que o JavaScript é capaz de fazer?</h1>
+    </div>
+    <div class="container">
+        <div class="video-page">
+            <video controls>
+                <source src="/aulas/aula1.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="actions">
+                <button onclick="likeButton(this)"><i class="fas fa-thumbs-up"></i> Curtir</button>
+                <button onclick="markAsCompleted(this)"><i class="fas fa-check"></i> Marcar como Concluída</button>
+            </div>
+            <div class="notes">
+                <h3>Fazer Anotações</h3>
+                <textarea placeholder="Escreva suas anotações aqui..."></textarea>
+                <p class="disclaimer">As suas anotações são privadas e não serão compartilhadas publicamente.</p>
+            </div>
+            <div class="lesson-info">
+                <h3>Informações sobre a Aula</h3>
+                <p><strong>Título:</strong> O que o JavaScript é capaz de fazer?</p>
+                <p><strong>Descrição:</strong> O video desta pagina é um video pegado do Youtube do canal "Curso em video" e esse mesmo video será usado nas outras paaginas para demonstração.</p>
+                <p><strong>Duração:</strong> 1 minuto e 10 segundos</p>
+                <p><strong>Instrutor:</strong> João Silva</p>
+            </div>
+            <div class="instructor-info">
+                <img src="https://storage.googleapis.com/a1aa/image/5nPwOqTA5qYnOJxnySEg5vShMYeLV7mrQaZJfx8D0PeFd3eOB.jpg" alt="Foto do instrutor João Silva">
+                <div class="details">
+                    <h3>João Silva</h3>
+                    <p><strong>Idade:</strong> 35 anos</p>
+                    <p>João Silva é um experiente desenvolvedor de software com mais de 10 anos de experiência na indústria. Ele é apaixonado por ensinar e ajudar novos programadores a entrarem no mundo da programação.</p>
+                    <div class="message-button">
+                        <button onclick="window.location.href='mailto:joao.silva@example.com'"><i class="fas fa-envelope"></i> Enviar Mensagem</button>
+                    </div>
+                </div>
+            </div>
+            <div class="back-to-modules">
+                <a href="/paginas/modulos/index.html"><i class="fas fa-arrow-left"></i> Voltar aos Módulos</a>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
