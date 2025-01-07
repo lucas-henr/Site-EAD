@@ -1,80 +1,97 @@
 # Site EAD de Aprendizado
 
-## Descrição do Projeto
+## Sobre o Projeto
 
-Este projeto é um site de Educação a Distância (EAD) desenvolvido para testar minhas habilidades em FrontEnd. Todas os videos, imagens, ou textos são apenas para complementação do site! 
+Este é um projeto de site de Educação a Distância (EAD) desenvolvido para aprimorar habilidades em Front-End. Ele serve como um protótipo para explorar conceitos de design e interatividade em aplicações web. Todo o conteúdo (vídeos, imagens e textos) é fictício e utilizado apenas para fins demonstrativos.
 
-### [Veja o site completo aqui](https://site-ead.vercel.app)
+### [Acesse o site completo aqui](https://site-ead.vercel.app)
+
+---
 
 ## Estrutura do Site
 
-### 1. Pagina inicial
+### 1. Página Inicial
 
-A página inicial do site serve como um ponto de partida. Aqui, eles podem encontrar uma visão geral do curso, informações e feedbacks! Para ir para a pagina de módulos, basta clicar nos botões do site.
+A página inicial oferece uma visão geral do curso, incluindo informações, feedbacks e botões de navegação para os módulos. É o ponto de partida para os usuários explorarem o conteúdo do site.
 
-Imagem 1
-![Imagem da Página incial 1](/imagens/inicial.png)
+![Página Inicial 1](/imagens/inicial.png)
+![Página Inicial 2](/imagens/inicial2.png)
+![Página Inicial 3](/imagens/inicial2.png)
 
-Imagem 2
-![Imagem da Página incial 2](/imagens/inicial2.png)
-
-Imagem 3
-![Imagem da Página incial 3](/imagens/inicial2.png)
-                                                        ( Tem mais no site 😉)
+---
 
 ### 2. Módulos
 
-A página de módulos apresenta todos os módulos e aulas do curso. São 3 modulos e cada um com 4 aulas! Clicando em cima de cada aula você é levado para área de aula. 
+A página de módulos organiza o conteúdo do curso em 3 módulos, cada um com 4 aulas. Os usuários podem acessar diretamente a área de aula clicando em uma aula específica.
 
-( Os titulos das aulas e modulos foram pegados de cursos gratuitos )
+![Página de Módulos](/imagens/modulos.png)
 
-Imagem
-![Imagem da Página Módulos](/imagens/modulos.png)
+---
 
-### 3. Área da aula
+### 3. Área da Aula
 
-A área da aula é o mais importante de todos os cursos e aqui não é diferente! Uma pagina dedicada a aula, onde o úsuario pode deixar anotações, botão para conversar com o professor, informações sobre a aula, e opção para marcar como concluída!
+A área da aula é o núcleo do site, oferecendo:
 
-Imagem 1
-![Imagem da Área da aula 1 ](/imagens/aula1.png)
+- Anotações personalizadas.
+- Botão para comunicação com o professor.
+- Informações detalhadas sobre a aula.
+- Opção para marcar a aula como concluída.
 
-Imagem 2
-![Imagem da Área da aula 2 ](/imagens/aula2.png)
+![Área da Aula 1](/imagens/aula1.png)
+![Área da Aula 2](/imagens/aula2.png)
+![Área da Aula 3](/imagens/aula3.png)
 
-Imagem 3
-![Imagem da Área da aula 3 ](/imagens/aula3.png)
+---
 
-### 3. Área do Usuário
+### 4. Área do Usuário
 
-A área do usuário é uma pagina simples, feita para mostrar informações sobre o usuário e pode ser acessada da pagina de módulos
+Uma página simples e funcional que exibe informações do usuário, acessível a partir da página de módulos.
 
-Imagem
-![Imagem da Área do Usuário](/imagens/conta.png)
+![Área do Usuário](/imagens/conta.png)
+
+---
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Estruturação do conteúdo do site.
-- **CSS**: Estilização e layout das páginas.
-- **JavaScript**: Interatividade e funcionalidades dinâmicas.
+- **HTML**: Para a estruturação do conteúdo.
+- **CSS**: Para estilização e layout.
+- **JavaScript**: Para interatividade e funcionalidades dinâmicas.
+
+---
 
 ## Como Contribuir
 
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua colaboração é sempre bem-vinda!
+Contribuições são sempre bem-vindas! Se você deseja ajudar no desenvolvimento deste projeto:
 
-## Outros Projetos
+1. Faça um fork do repositório.
+2. Crie uma branch para sua feature ou correção (`git checkout -b feature/nome-da-feature`).
+3. Envie um pull request com as mudanças propostas.
 
-Aqui estão alguns outros projetos que você pode querer explorar:
+---
 
-- [Chatbot twitch - CHAT bot para twitch, que responde comandos!](https://github.com/lucas-henr/Chatbot_twith)
-- [Site com links uteis - links uteis dentro de uma pagina](https://github.com/lucas-henr/Site-links)
-- [Meu PortFolio](https://portfolio-lucax.vercel.app)
+## Projetos Relacionados
+
+Confira outros projetos que desenvolvi:
+
+- [Chatbot Twitch](https://github.com/lucas-henr/Chatbot_twith): Um chatbot para Twitch que responde a comandos.
+- [Site de Links Úteis](https://github.com/lucas-henr/Site-links): Uma página simples com links úteis.
+- [Portfólio Pessoal](https://portfolio-lucax.vercel.app): Meu portfólio online.
+
+---
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](/LICENSE).
+Este projeto está licenciado sob a [Licença MIT](/LICENSE). Consulte o arquivo de licença para mais detalhes.
+
+---
 
 ## Contato
 
-Para mais informações, entre em contato pelo e-mail: facillucas123@gmail.com
+Entre em contato para dúvidas ou sugestões:
+
+📧 **E-mail**: facillucas123@gmail.com  
+🌐 **GitHub**: [Lucas Henrique](https://github.com/lucas-henr)
 
 ---
+
+Obrigado por visitar este projeto! 🚀
